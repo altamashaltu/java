@@ -1,0 +1,60 @@
+Q1
+Ans: A,B,D
+Q2
+Ans: B
+Q3
+Ans: A
+Q4
+Ans: A
+Q5
+Ans: B
+Q6
+Ans: A
+Q7
+Ans: A and B
+Q8
+Ans: B
+Q9
+Ans: A and B
+Q10
+Ans: B
+Q11
+Ans: B
+Q12
+Ans: B
+Q13
+Ans: C
+Q14
+Ans: C
+Q15
+Ans: B
+Q16
+Ans: D
+Q17
+Ans: C
+Q18
+Ans: A
+Q19
+Ans: A
+Q20
+Ans: B
+Q21
+Ans: B
+Q22
+Ans: A
+Q23
+Ans: B
+Q24
+Ans: A
+Q25
+Ans: A
+Q26
+Ans: A
+Q27
+Ans: B
+Q28
+Ans: C
+Q29
+Ans: D
+Q30
+Ans: A and D
